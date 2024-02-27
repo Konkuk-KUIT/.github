@@ -40,7 +40,6 @@ KUIT의 커리큘럼은 단순히 완주하는 것이 목표가 아닙니다. �
 
 </aside>
 
-
 #### Stack & Tool
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,11 +62,14 @@ KUIT 안드로이드 파트는 **구현을 기반으로 한 안드로이드 기�
 
 </aside>
 
+#### Stack & Tool
+![Static Badge](https://img.shields.io/badge/Android%20Studio-86E57F?style=for-the-badge&logo=AndroidStudio)
+![Static Badge](https://img.shields.io/badge/Kotlin-E8D9FF?style=for-the-badge&logo=Kotlin)
+
 <br>
 
 ### IOS
 #### Goal
-<aside>
 <aside>
 **KUIT iOS에서는?**
 
@@ -79,10 +81,10 @@ iOS와 SwiftUI의 매력과 앱 개발에 대한 흥미를 느낄 수 있을 것
 
 </aside>
 
-</aside>
-
 #### Stack & Tool
-
+![Static Badge](https://img.shields.io/badge/Swift-8A2BE2?style=for-the-badge&logo=Swift)
+![Static Badge](https://img.shields.io/badge/SwiftUI-D1B2FF?style=for-the-badge&logo=SwiftUI)
+![Static Badge](https://img.shields.io/badge/Xcode-B2CCFF?style=for-the-badge&logo=Xcode)
 
 <br>
 

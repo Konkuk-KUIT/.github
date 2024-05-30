@@ -1,5 +1,6 @@
 # KUIT.Official
 ### KUIT, ‘KU can do IT’
+[@kuit.official](https://www.instagram.com/kuit.official)
 <!--
 <a href="/"><img src="https://img.shields.io/badge/website-kuit-AC58FA?style=for-the-badge"/></a>
 

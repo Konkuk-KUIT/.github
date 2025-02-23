@@ -1,6 +1,8 @@
 # KUIT.Official
 ### KUIT, ‘KU can do IT’
 [@kuit.official](https://www.instagram.com/kuit.official)
+[KUIT Landing Page](https://www.konkuk-kuit.com/)
+
 <!--
 <a href="/"><img src="https://img.shields.io/badge/website-kuit-AC58FA?style=for-the-badge"/></a>
 
@@ -33,8 +35,8 @@ _* 3기는 국민대학교 디자인 동아리 STACK과 함께 프로젝트를 �
 🟣 [MAPU](https://github.com/KUIT-MAPU)
 ⚪ [잇픽](https://github.com/IT-Pick)
 
-<br>
 
+---
 ## Education Part
 ### Web
 #### Goal

@@ -1,7 +1,7 @@
 # KUIT.Official
 ### KUIT, ‘KU can do IT’
-[@kuit.official](https://www.instagram.com/kuit.official)
-[KUIT Landing Page](https://www.konkuk-kuit.com/)
+- [@kuit.official](https://www.instagram.com/kuit.official)  
+- [KUIT Landing Page](https://www.konkuk-kuit.com/)  
 
 <!--
 <a href="/"><img src="https://img.shields.io/badge/website-kuit-AC58FA?style=for-the-badge"/></a>
@@ -18,14 +18,15 @@
    2. 한 학기동안 열심히 공부하여, 참여한 파트를 “**끝내버리겠다(QUIT)**”!
 <br>
 
-KUIT는 앱 개발을 목표로 하는 프로젝트 동아리입니다.
+KUIT는 웹 / 앱 개발을 목표로 하는 프로젝트 동아리입니다.
 
-학기 중에 개발에 필요한 지식을 습득한 후, 방학동안 여러분만의 앱을 만드는 과정을 진행합니다.
+학기 중에 개발에 필요한 지식을 습득한 후, 방학동안 여러분만의 웹 / 앱을 만드는 과정을 진행합니다.
 
 _* 3기는 국민대학교 디자인 동아리 STACK과 함께 프로젝트를 진행했습니다._
 
 ---
 ## [Team Project](https://confusion-ping-ae2.notion.site/KUIT-4-1a33114cc9c5808188f2de983ed89542)
+- 링크에서 더 많은 프로젝트들을 확인하실 수 있습니다.
 ### 3기 Repository
 🔴 [아워메뉴](https://github.com/OurMenu)
 🟠 리메틱 [IOS](https://github.com/jstar000/Remetic) / [SERVER](https://github.com/djlim00/REMETIC_SERVER)

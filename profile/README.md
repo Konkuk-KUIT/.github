@@ -22,6 +22,16 @@ KUIT는 앱 개발을 목표로 하는 프로젝트 동아리입니다.
 
 _* 3기는 국민대학교 디자인 동아리 STACK과 함께 프로젝트를 진행했습니다._
 
+---
+## [Team Project](https://confusion-ping-ae2.notion.site/KUIT-4-1a33114cc9c5808188f2de983ed89542)
+### 3기 Repository
+🔴 [아워메뉴](https://github.com/OurMenu)
+🟠 리메틱 [IOS](https://github.com/jstar000/Remetic) / [SERVER](https://github.com/djlim00/REMETIC_SERVER)
+🟡 [아가랑](https://github.com/KUIT-AGARANG)
+🟢 [헬스메이트](https://github.com/KUIT-HealthMate)
+🔵 [스페이스](https://github.com/KUIT-Space)
+🟣 [MAPU](https://github.com/KUIT-MAPU)
+⚪ [잇픽](https://github.com/IT-Pick)
 
 <br>
 
@@ -156,24 +166,6 @@ PM은 혼자서 가질 수 있는 포지션이 아닙니다.
 
 
 <br><br>
-
----
-## Team Project
-### 3기 Repository
-🔴 [아워메뉴](https://github.com/OurMenu)
-
-🟠 리메틱 [IOS](https://github.com/jstar000/Remetic) / [SERVER](https://github.com/djlim00/REMETIC_SERVER)
-
-🟡 [아가랑](https://github.com/KUIT-AGARANG)
-
-🟢 [헬스메이트](https://github.com/KUIT-HealthMate)
-
-🔵 [스페이스](https://github.com/KUIT-Space)
-
-🟣 [MAPU](https://github.com/KUIT-MAPU)
-
-⚪ [잇픽](https://github.com/IT-Pick)
-
 
 
 <!--

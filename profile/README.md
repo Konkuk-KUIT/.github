@@ -1,7 +1,7 @@
 # KUIT.Official
 ### KUIT, ‘KU can do IT’
-- [@kuit.official](https://www.instagram.com/kuit.official)  
-- [KUIT Landing Page](https://www.konkuk-kuit.com/)  
+- INSTAGRAM : [@kuit.official](https://www.instagram.com/kuit.official)  
+- WEB : [KUIT Landing Page](https://www.konkuk-kuit.com/)  
 
 <!--
 <a href="/"><img src="https://img.shields.io/badge/website-kuit-AC58FA?style=for-the-badge"/></a>
@@ -11,8 +11,18 @@
 ![2nd Logo Fix](https://github.com/KUIT-2/.github/assets/96233738/b815be5f-33c6-4a3b-994b-3c436d5f9cd4)
 
 <br>
+<div align="center">
+   <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/700004037537672398/draw"
+        width="800"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+</div>
 
-## Introduce
+# Introduce
 저희 **KUIT**은 '**KU can do IT**'의 약자로 여러 가지 뜻을 담고 있습니다.
    1. 건국대학교 학생이라면 누구나 **IT(Information Technology)** 공부를 할 수 있다.
    2. 한 학기동안 열심히 공부하여, 참여한 파트를 “**끝내버리겠다(QUIT)**”!
@@ -22,12 +32,14 @@ KUIT는 웹 / 앱 개발을 목표로 하는 프로젝트 동아리입니다.
 
 학기 중에 개발에 필요한 지식을 습득한 후, 방학동안 여러분만의 웹 / 앱을 만드는 과정을 진행합니다.
 
-_* 3기는 국민대학교 디자인 동아리 STACK과 함께 프로젝트를 진행했습니다._
+_* 3기는 [국민대학교 디자인 동아리 STACK](https://cms.kookmin.ac.kr/id/intro/club.do?mode=view&articleNo=511&title=Stack)과 함께 프로젝트를 진행했습니다._  
+_* 4기는 수도권의 여러 대학교에서 모인 디자이너 분들과 함께 프로젝트를 진행했습니다._   
+_* 5기는 [경희대학교 산업디자인학과 학술동아리 KAC](https://www.instagram.com/kac_official_/)와 함께 프로젝트를 진행했습니다._    
 
 ---
-## [Team Project](https://confusion-ping-ae2.notion.site/KUIT-4-1a33114cc9c5808188f2de983ed89542)
+# [Team Project](https://confusion-ping-ae2.notion.site/KUIT-4-1a33114cc9c5808188f2de983ed89542)
 - 링크에서 더 많은 프로젝트들을 확인하실 수 있습니다.
-### 3기 Repository
+## 3기 Repository
 🔴 [아워메뉴](https://github.com/OurMenu)
 🟠 리메틱 [IOS](https://github.com/jstar000/Remetic) / [SERVER](https://github.com/djlim00/REMETIC_SERVER)
 🟡 [아가랑](https://github.com/KUIT-AGARANG)
@@ -38,9 +50,9 @@ _* 3기는 국민대학교 디자인 동아리 STACK과 함께 프로젝트를 �
 
 
 ---
-## Education Part
-### Web
-#### Goal
+# Education Part
+## Web
+### Goal
 <aside>
    
 KUIT 프론트엔드 파트는 **"기술을 제대로 알고 쓰는 것"에 중점을 두고 있습니다.**
@@ -55,7 +67,7 @@ KUIT의 커리큘럼은 단순히 완주하는 것이 목표가 아닙니다. �
 
 </aside>
 
-#### Stack & Tool
+### Stack & Tool
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -63,8 +75,8 @@ KUIT의 커리큘럼은 단순히 완주하는 것이 목표가 아닙니다. �
 
 <br>
 
-### Android
-#### Goal
+## Android
+### Goal
 <aside>
    
 KUIT 안드로이드 파트는 구현을 기반으로 한 **안드로이드 기초 학습**에 중점을 두고 있습니다.
@@ -78,14 +90,14 @@ KUIT 안드로이드 파트는 구현을 기반으로 한 **안드로이드 기�
 
 </aside>
 
-#### Stack & Tool
+### Stack & Tool
 ![Static Badge](https://img.shields.io/badge/Android%20Studio-86E57F?style=for-the-badge&logo=AndroidStudio)
 ![Static Badge](https://img.shields.io/badge/Kotlin-E8D9FF?style=for-the-badge&logo=Kotlin)
 
 <br>
 
-### IOS
-#### Goal
+## IOS
+### Goal
 <aside>
 
 **KUIT IOS에서는?**
@@ -98,15 +110,15 @@ iOS와 SwiftUI의 매력과 앱 개발에 대한 흥미를 느낄 수 있을 것
 
 </aside>
 
-#### Stack & Tool
+### Stack & Tool
 ![Static Badge](https://img.shields.io/badge/Swift-8A2BE2?style=for-the-badge&logo=Swift)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-D1B2FF?style=for-the-badge&logo=SwiftUI)
 ![Static Badge](https://img.shields.io/badge/Xcode-B2CCFF?style=for-the-badge&logo=Xcode)
 
 <br>
 
-### Server
-#### Goal
+## Server
+### Goal
 <aside>
 
 KUIT 서버 파트는 **단순한 지식 전달이 아닌, 실제 개발 능력을 키우는 과정에 집중**하고 있습니다.
@@ -117,7 +129,7 @@ KUIT 서버 파트는 **단순한 지식 전달이 아닌, 실제 개발 능력�
 
 </aside>
 
-#### Stack & Tool
+### Stack & Tool
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FE642E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -125,8 +137,8 @@ KUIT 서버 파트는 **단순한 지식 전달이 아닌, 실제 개발 능력�
 
 <br>
 
-### Product Manager
-#### Goal
+## Product Manager
+### Goal
 
 **?**
 
@@ -163,7 +175,7 @@ PM은 혼자서 가질 수 있는 포지션이 아닙니다.
 고민하고 생각하는 과정을 함께하려고 합니다.
 
 
-#### Stack & Tool
+### Stack & Tool
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
